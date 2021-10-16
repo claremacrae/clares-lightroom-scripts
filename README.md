@@ -18,6 +18,7 @@
 ### Lightroom Resources
 
 - [Adobe Lightroom SDK for plugin & extension development | Adobe I/O](https://www.adobe.io/apis/creativecloud/lightroomclassic.htm)
+- [Adobe Developer Console](https://developer.adobe.com/console/home)
   
 ### Example Scripts
   
